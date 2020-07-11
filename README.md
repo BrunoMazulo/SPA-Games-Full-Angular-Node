@@ -1,10 +1,16 @@
-# SPA---Angular-Games
+# SPA-Angular-Games
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+
+![homegames](https://user-images.githubusercontent.com/62894322/87212101-2b72b280-c2f3-11ea-9b9c-aad3d31b98af.png)
+![addgame](https://user-images.githubusercontent.com/62894322/87212111-34fc1a80-c2f3-11ea-92af-58664988d11a.png)
+![editgame](https://user-images.githubusercontent.com/62894322/87212116-39283800-c2f3-11ea-8ebf-39375e9d33ae.png)
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+Run `npm run dev` for a dev server.
 
 ## Code scaffolding
 
